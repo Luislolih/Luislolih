@@ -6,14 +6,14 @@ Soy un **Full Stack Developer** egresado de _SoyHenry_ Bootcamp y mi especialida
 
 Esta es la lista de tecnologías, lenguajes y frameworks que aprendí y uso:
 
--   **Javascript**
--   **Node.js**
--   **Express.js**
--   **React.js**
--   **Redux**
--   **Sequelize**
--   **Postgres**
+
+-   **HTML**
 -   **CSS**
+-   **JavaScript**
+-   **React.js**
+-   **Tailwind CSS**
+-   **Node.js**
+
 
 ## Contáctame y hagamos un proyecto juntos.
 
