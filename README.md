@@ -1,18 +1,15 @@
 # Hola, Soy Luis Loli! 👋
 
-Soy un **Full Stack Developer** egresado de _SoyHenry_ Bootcamp y mi especialidad es el **Front end.** 👨‍💻
+**FrontEnd Developer** con experiencia de un año y medio en el diseño y desarrollo de interfaces web. Apasionado por crear experiencias digitales funcionales. 👨‍💻
 
-## ¿Qué tecnologías uso?
-
-Esta es la lista de tecnologías, lenguajes y frameworks que aprendí y uso:
-
+## Tecnologías que utilizo:
 
 -   **HTML**
 -   **CSS**
 -   **JavaScript**
 -   **React.js**
 -   **Tailwind CSS**
--   **Node.js**
+-   **Next JS**
 
 
 ## Contáctame y hagamos un proyecto juntos.
